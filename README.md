@@ -3,3 +3,7 @@ https://colab.research.google.com/drive/1kF4MVgXDz75ghG5rbard6fzaBrsrwkhv?usp=sh
 
 #video link
 https://drive.google.com/file/d/1FXo4LXY_4kfB300O5gJIbR0pletzzNth/view?usp=drive_link
+
+#dataset-
+#load dataset
+url= "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
